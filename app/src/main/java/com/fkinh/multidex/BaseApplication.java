@@ -5,8 +5,8 @@ import android.support.multidex.MultiDex;
 import android.support.multidex.MultiDexApplication;
 
 /**
- * Author: jinghao
- * Email: jinghao@meizu.com
+ * Author: fkinh
+ * Email: fkinh26@gmail.com
  * Date: 2016-02-29
  */
 public class BaseApplication extends MultiDexApplication {
